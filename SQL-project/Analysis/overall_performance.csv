@@ -1,0 +1,21 @@
+course_name,instructor_first_name,instructor_last_name,total_enrollments,completed_enrollments,completion_rate_percentage,average_grade_of_completed_students
+"Database Administration with MySQL","Dr. Omar",Hassan,6,5,83.3333333,85.400000
+"Andriod App Development with Kotlin","Prof. Emily",Chen,4,3,75.0000000,85.666667
+"SQL for Data Analysts","Dr. Alex",Wong,9,6,66.6666667,87.416667
+"Machine Learning with Python","Dr. Marcus",Thorne,5,3,60.0000000,85.500000
+"Data Visualization with Tableau","Dr. Alex",Wong,5,3,60.0000000,76.333333
+"AWS Cloud Practitioner Prep","Mr. Robert",Vega,5,3,60.0000000,71.666667
+"DevOps Fundamentals","Mr. Robert",Vega,4,2,50.0000000,79.500000
+"NoSQL Databases Explained","Dr. Omar",Hassan,4,2,50.0000000,74.000000
+"Cybersecurity Fundamentals","Mr. David",Kim,6,3,50.0000000,72.833333
+"Python Web Basics","Prof. Sarah",Green,7,3,42.8571429,90.333333
+"iOS App Development with Swift","Prof. Emily",Chen,5,2,40.0000000,83.000000
+"Network Security Essentials","Mr. David",Kim,5,2,40.0000000,70.000000
+"Figma for UI Design","Ms. Jessica",Singh,3,1,33.3333333,84.000000
+"React JS Masterclass","Prof. Sarah",Green,6,2,33.3333333,80.500000
+"Big Data Technologies","Dr. Marcus",Thorne,3,1,33.3333333,77.000000
+"Effective Business Communication","Prof. Chloe",Perez,4,1,25.0000000,93.000000
+"Advanced SQL Techniques","Dr. Alex",Wong,5,1,20.0000000,94.000000
+"Project Management Professional (PMP)","Ms. Laura",Bell,5,1,20.0000000,91.000000
+"Advanced Python Web Development","Prof. Sarah",Green,4,0,0.0000000,NULL
+"UX Design Principles","Ms. Jessica",Singh,5,0,0.0000000,NULL

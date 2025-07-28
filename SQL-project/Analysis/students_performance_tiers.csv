@@ -1,0 +1,6 @@
+student_id,first_name,last_name,overall_average_quiz_score,performance_tier,performance_category
+9,Ivy,Chen,98.000000,1,"Top Performer"
+1,Alice,Smith,92.500000,1,"Top Performer"
+2,Bob,Johnson,88.000000,2,"Above Average"
+4,Diana,Prince,78.000000,3,Average
+6,Frank,Miller,75.000000,4,"Needs Improvement"

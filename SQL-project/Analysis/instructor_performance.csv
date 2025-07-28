@@ -1,0 +1,11 @@
+instructor_first_name,instructor_last_name,specialty,total_students_taught,total_course_enrollments,average_grade_across_courses
+"Prof. Chloe",Perez,"Technical Writing",1,1,93.000000
+"Ms. Laura",Bell,"Project Management",1,1,91.000000
+"Prof. Sarah",Green,"Web Development",5,5,86.400000
+"Dr. Alex",Wong,"Data Science",9,10,84.750000
+"Prof. Emily",Chen,"Mobile App Development",5,5,84.600000
+"Ms. Jessica",Singh,"UX/UI Design",1,1,84.000000
+"Dr. Marcus",Thorne,"Machine Learning",3,4,83.375000
+"Dr. Omar",Hassan,"Database Administration",7,7,82.142857
+"Mr. Robert",Vega,"Cloud Computing",5,5,74.800000
+"Mr. David",Kim,Cybersecurity,5,5,71.700000

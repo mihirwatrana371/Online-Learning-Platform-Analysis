@@ -1,0 +1,88 @@
+country,course_name,total_enrollments
+Argentina,"UX Design Principles",1
+Argentina,"Cybersecurity Fundamentals",1
+Australia,"Python Web Basics",1
+Australia,"Effective Business Communication",1
+Australia,"Database Administration with MySQL",1
+Australia,"Network Security Essentials",1
+Australia,"Data Visualization with Tableau",1
+Australia,"Machine Learning with Python",1
+Brazil,"Network Security Essentials",1
+Brazil,"Machine Learning with Python",1
+Canada,"Advanced SQL Techniques",2
+Canada,"Python Web Basics",2
+Canada,"Database Administration with MySQL",1
+Canada,"AWS Cloud Practitioner Prep",1
+Canada,"SQL for Data Analysts",1
+Canada,"Effective Business Communication",1
+Canada,"Project Management Professional (PMP)",1
+Canada,"Big Data Technologies",1
+China,"Big Data Technologies",1
+China,"Cybersecurity Fundamentals",1
+China,"DevOps Fundamentals",1
+China,"Project Management Professional (PMP)",1
+Colombia,"React JS Masterclass",1
+Colombia,"Effective Business Communication",1
+Egypt,"DevOps Fundamentals",1
+Egypt,"Database Administration with MySQL",1
+France,"Project Management Professional (PMP)",1
+France,"AWS Cloud Practitioner Prep",1
+Germany,"React JS Masterclass",1
+Germany,"Project Management Professional (PMP)",1
+Germany,"Data Visualization with Tableau",1
+Germany,"iOS App Development with Swift",1
+Germany,"SQL for Data Analysts",1
+Germany,"UX Design Principles",1
+India,"Cybersecurity Fundamentals",1
+India,"Advanced SQL Techniques",1
+India,"AWS Cloud Practitioner Prep",1
+India,"Database Administration with MySQL",1
+Ireland,"Cybersecurity Fundamentals",1
+Ireland,"Figma for UI Design",1
+Italy,"Advanced SQL Techniques",1
+Italy,"NoSQL Databases Explained",1
+Japan,"Effective Business Communication",1
+Japan,"Data Visualization with Tableau",1
+Mexico,"iOS App Development with Swift",1
+Mexico,"Data Visualization with Tableau",1
+"New Zealand","Machine Learning with Python",1
+"New Zealand","Big Data Technologies",1
+Portugal,"Advanced Python Web Development",1
+Portugal,"React JS Masterclass",1
+Singapore,"NoSQL Databases Explained",1
+Singapore,"Python Web Basics",1
+"South Africa","UX Design Principles",1
+"South Africa","Andriod App Development with Kotlin",1
+"South Korea","NoSQL Databases Explained",1
+"South Korea","Network Security Essentials",1
+Spain,"UX Design Principles",1
+Spain,"Andriod App Development with Kotlin",1
+Sweden,"Machine Learning with Python",1
+Sweden,"Network Security Essentials",1
+UAE,"Database Administration with MySQL",1
+UAE,"DevOps Fundamentals",1
+UK,"SQL for Data Analysts",2
+UK,"Machine Learning with Python",1
+UK,"Network Security Essentials",1
+UK,"React JS Masterclass",1
+UK,"Cybersecurity Fundamentals",1
+UK,"NoSQL Databases Explained",1
+UK,"Python Web Basics",1
+UK,"UX Design Principles",1
+UK,"iOS App Development with Swift",1
+USA,"SQL for Data Analysts",4
+USA,"Advanced Python Web Development",3
+USA,"AWS Cloud Practitioner Prep",2
+USA,"iOS App Development with Swift",2
+USA,"Figma for UI Design",2
+USA,"React JS Masterclass",2
+USA,"Python Web Basics",2
+USA,"Cybersecurity Fundamentals",1
+USA,"Advanced SQL Techniques",1
+USA,"Andriod App Development with Kotlin",1
+USA,"Data Visualization with Tableau",1
+USA,"Database Administration with MySQL",1
+USA,"Project Management Professional (PMP)",1
+USA,"DevOps Fundamentals",1
+Vietnam,"SQL for Data Analysts",1
+Vietnam,"Andriod App Development with Kotlin",1

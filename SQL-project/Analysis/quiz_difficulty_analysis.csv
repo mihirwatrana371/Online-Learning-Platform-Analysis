@@ -1,0 +1,5 @@
+quiz_name,lesson_name,course_name,average_score,average_time_taken_minutes,total_attempts
+"Python Basics Assessment","Quiz: Python Basics","Python Web Basics",75.333333,19.0000,3
+"Basic SQL Concepts Quiz","Quiz: Basic SQL","SQL for Data Analysts",77.000000,24.2000,5
+"Cybersecurity Terminology Quiz","Quiz: Cybersecurity Terms","Cybersecurity Fundamentals",78.000000,25.0000,1
+"SQL JOINs and Filtering Quiz","Quiz: JOINs and Filtering","SQL for Data Analysts",79.333333,39.0000,3
